@@ -24,7 +24,7 @@ go get github.com/lucor/fyne-cross/v2/cmd/fyne-cross
 ```
 
 ```
-fyne-cross --targets=linux/amd64,windows/amd64,darwin/amd64 -arch=amd64,386
+fyne-cross windows -arch=amd64
 ```
 ### normal build 
 
