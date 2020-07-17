@@ -30,7 +30,6 @@ fyne-cross windows -arch=amd64
 
 ```
 go build -ldflags="-H windowsgui"
-
 ```
 ## screen
 It should look like this:
